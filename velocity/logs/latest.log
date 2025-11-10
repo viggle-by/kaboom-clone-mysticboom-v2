@@ -1,37 +1,37 @@
-[00:18:08] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-44bc15db-b512)...
-[00:18:08] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[00:18:09] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
-[00:18:09] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
-[00:18:09] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
-[00:18:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[00:18:11] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.0.7...
-[00:18:11] [main/INFO] [eaglerxserver]: (Platform: Velocity)
-[00:18:11] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
-[00:18:12] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.0.7 by lax1dude
-[00:18:12] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerweb 1.0.0 by lax1dude
-[00:18:12] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxrewind-1-5 1.0.2 by lax1dude, ayunami2000
-[00:18:12] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.4.23 by NickUC
-[00:18:12] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 5 plugins
-[00:18:13] [EaglercraftXServer - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.0.7...
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Loading config files...
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Indexing pages, please wait...
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Indexed 12 pages total!
-[00:18:13] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxrewind-1-5]: EaglerXRewind protocol for Eaglercraft 1.5.2 has been registered
-[00:18:16] [Netty epoll Worker #0/INFO] [eaglerxserver]: You are running the latest version of EaglerXServer
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [nlogin]: Successful plugin core start (took 0.77s)
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.4.23 DEVELOPMENT
-[00:18:17] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: Exception in thread "main" io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[00:18:19] [Netty epoll Boss #0/ERROR] [com.velocitypowered.proxy.network.ConnectionManager]: Can't bind to /0.0.0.0:25567
+[00:30:36] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-44bc15db-b512)...
+[00:30:36] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[00:30:37] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[00:30:37] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[00:30:37] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[00:30:37] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[00:30:38] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.0.7...
+[00:30:38] [main/INFO] [eaglerxserver]: (Platform: Velocity)
+[00:30:38] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
+[00:30:38] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.0.7 by lax1dude
+[00:30:39] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerweb 1.0.0 by lax1dude
+[00:30:39] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxrewind-1-5 1.0.2 by lax1dude, ayunami2000
+[00:30:39] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.4.23 by NickUC
+[00:30:39] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 5 plugins
+[00:30:39] [EaglercraftXServer - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[00:30:39] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.0.7...
+[00:30:39] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[00:30:40] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
+[00:30:40] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Loading config files...
+[00:30:40] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Indexing pages, please wait...
+[00:30:40] [EaglercraftXServer - Task Executor #0/INFO] [eaglerweb]: Indexed 12 pages total!
+[00:30:40] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxrewind-1-5]: EaglerXRewind protocol for Eaglercraft 1.5.2 has been registered
+[00:30:42] [Netty epoll Worker #0/INFO] [eaglerxserver]: You are running the latest version of EaglerXServer
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [nlogin]: Successful plugin core start (took 0.65s)
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[00:30:42] [EaglercraftXServer - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: Exception in thread "main" io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[00:30:44] [Netty epoll Boss #0/ERROR] [com.velocitypowered.proxy.network.ConnectionManager]: Can't bind to /0.0.0.0:25567
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
 	Suppressed: java.util.concurrent.CompletionException: Rethrowing promise failure cause
 		at io.netty.util.concurrent.DefaultPromise.rethrowIfFailed(DefaultPromise.java:685) ~[server.jar:3.4.0-SNAPSHOT (git-44bc15db-b512)]
@@ -41,32 +41,32 @@ io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already
 		at com.velocitypowered.proxy.network.ConnectionManager.bind(ConnectionManager.java:149) ~[server.jar:3.4.0-SNAPSHOT (git-44bc15db-b512)]
 		at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:318) ~[server.jar:3.4.0-SNAPSHOT (git-44bc15db-b512)]
 		at com.velocitypowered.proxy.Velocity.main(Velocity.java:76) ~[server.jar:3.4.0-SNAPSHOT (git-44bc15db-b512)]
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	Suppressed: java.util.concurrent.CompletionException: Rethrowing promise failure cause
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.util.concurrent.DefaultPromise.rethrowIfFailed(DefaultPromise.java:685)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.util.concurrent.DefaultPromise.syncUninterruptibly(DefaultPromise.java:426)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.channel.DefaultChannelPromise.syncUninterruptibly(DefaultChannelPromise.java:125)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.channel.DefaultChannelPromise.syncUninterruptibly(DefaultChannelPromise.java:30)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.network.ConnectionManager.bind(ConnectionManager.java:149)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:318)
-[00:18:19] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.Velocity.main(Velocity.java:76)
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Thank you so much for choosing nLogin! <3
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  For your safety, please read the message below:
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Never download nLogin from unknown sources.
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   A modified version may contain malicious software.
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Trusted sources:
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.nickuc.com
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.github.com/nickuc
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   OpeNLogin installer (from Spigot or GitHub)
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Official support channels:
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Discord group: www.nickuc.com/discord
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Documentation: docs.nickuc.com/nlogin/
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Email: support@nickuc.com
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   YouTube: youtube.com/nickuc
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  To remove this warning, log in with "nlogin.admin" permission on the server
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  and click the "Setup plugin" button to configure your plugin.
-[00:18:24] [nLogin - Task Executor #1/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	Suppressed: java.util.concurrent.CompletionException: Rethrowing promise failure cause
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.util.concurrent.DefaultPromise.rethrowIfFailed(DefaultPromise.java:685)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.util.concurrent.DefaultPromise.syncUninterruptibly(DefaultPromise.java:426)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.channel.DefaultChannelPromise.syncUninterruptibly(DefaultChannelPromise.java:125)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at io.netty.channel.DefaultChannelPromise.syncUninterruptibly(DefaultChannelPromise.java:30)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.network.ConnectionManager.bind(ConnectionManager.java:149)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:318)
+[00:30:44] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 		at com.velocitypowered.proxy.Velocity.main(Velocity.java:76)
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Thank you so much for choosing nLogin! <3
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  For your safety, please read the message below:
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Never download nLogin from unknown sources.
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   A modified version may contain malicious software.
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Trusted sources:
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.nickuc.com
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.github.com/nickuc
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   OpeNLogin installer (from Spigot or GitHub)
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Official support channels:
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Discord group: www.nickuc.com/discord
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Documentation: docs.nickuc.com/nlogin/
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Email: support@nickuc.com
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   YouTube: youtube.com/nickuc
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  To remove this warning, log in with "nlogin.admin" permission on the server
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  and click the "Setup plugin" button to configure your plugin.
+[00:30:49] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 

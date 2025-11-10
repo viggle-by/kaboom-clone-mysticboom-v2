@@ -2,3 +2,9 @@
 00:15:21.367 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
 00:18:04.359 INFO  Limbo -- Starting server...
 00:18:05.592 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+00:23:38.130 INFO  Limbo -- Starting server...
+00:23:40.732 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+00:25:36.036 INFO  Limbo -- Player YeeishYeeler8634 connected (/127.0.0.1:53250) [V1_12_2]
+00:25:43.230 INFO  Limbo -- Player YeeishYeeler8634 disconnected
+00:30:32.362 INFO  Limbo -- Starting server...
+00:30:35.226 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
