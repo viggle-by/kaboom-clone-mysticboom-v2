@@ -1,0 +1,190 @@
+[00:18:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Microsoft Microsoft-11369942) on Linux 6.8.0-1030-azure (amd64)
+[00:18:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-113-main@ba7fb23 (2025-06-10T23:34:22Z) for Minecraft 1.21.5
+[00:18:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:18:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[00:18:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - CommandSpy (master), Essentials (2.22.0-dev+42-9985dbd), Extras (master), FastAsyncWorldEdit (2.14.1-SNAPSHOT-1212+57c8ab5), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), mc-neofetch (1.0.0)
+[00:18:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:18:34] [ServerMain/INFO]: Loaded 1373 recipes
+[00:18:34] [ServerMain/INFO]: Loaded 1484 advancements
+[00:18:34] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[00:18:34] [Server thread/INFO]: Loading properties
+[00:18:34] [Server thread/INFO]: This server is running Paper version 1.21.5-113-main@ba7fb23 (2025-06-10T23:34:22Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[00:18:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:18:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:18:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:18:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:18:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:18:37] [Server thread/INFO]: Default game type: SURVIVAL
+[00:18:37] [Server thread/INFO]: Generating keypair
+[00:18:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:18:37] [Server thread/INFO]: Using epoll channel type
+[00:18:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:18:37] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:18:39] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[00:18:39] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[00:18:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:18:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:18:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[00:18:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[00:18:44] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[00:18:45] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[00:18:45] [Server thread/INFO]: [CommandSpy] Loading server plugin CommandSpy vmaster
+[00:18:45] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.14.1-SNAPSHOT-1212+57c8ab5
+[00:18:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4eb55b6]
+[00:18:47] [Server thread/INFO]: [mc-neofetch] Loading server plugin mc-neofetch v1.0.0
+[00:18:47] [Server thread/INFO]: [Extras] Loading server plugin Extras vmaster
+[00:18:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+42-9985dbd
+[00:18:47] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
+[00:18:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:18:47] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.14.1-SNAPSHOT-1212+57c8ab5
+[00:18:47] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[00:18:47] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[00:18:47] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:18:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:18:47] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_5.PaperweightFaweAdapter as the Bukkit adapter
+[00:18:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[00:18:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:18:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:18:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:18:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:18:50] [Server thread/INFO]: Preparing level "world"
+[00:18:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:18:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:55] [Server thread/INFO]: Preparing spawn area: 2%
+[00:18:55] [Server thread/INFO]: Preparing spawn area: 2%
+[00:18:55] [Server thread/INFO]: Preparing spawn area: 2%
+[00:18:55] [Server thread/INFO]: Preparing spawn area: 34%
+[00:18:57] [Server thread/INFO]: Preparing spawn area: 55%
+[00:18:57] [Server thread/INFO]: Preparing spawn area: 55%
+[00:18:57] [Server thread/INFO]: Preparing spawn area: 55%
+[00:18:57] [Server thread/INFO]: Time elapsed: 4373 ms
+[00:18:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:18:57] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:58] [Server thread/INFO]: Preparing spawn area: 2%
+[00:18:58] [Server thread/INFO]: Preparing spawn area: 2%
+[00:18:58] [Server thread/INFO]: Time elapsed: 1352 ms
+[00:18:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:18:58] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:59] [Server thread/INFO]: Preparing spawn area: 69%
+[00:18:59] [Server thread/INFO]: Time elapsed: 652 ms
+[00:18:59] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[00:18:59] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.5 (770)
+[00:18:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[00:18:59] [Server thread/INFO]: [CommandSpy] Enabling CommandSpy vmaster
+[00:18:59] [Server thread/INFO]: [mc-neofetch] Enabling mc-neofetch v1.0.0
+[00:18:59] [Server thread/INFO]: [Extras] Enabling Extras vmaster
+[00:19:00] [Server thread/ERROR]: [Extras] Failed to register events for class pw.kaboom.extras.modules.player.PlayerConnection because io/papermc/paper/event/player/AsyncPlayerSpawnLocationEvent does not exist.
+[00:19:00] [Server thread/ERROR]: Error occurred while enabling Extras vmaster (Is it up to date?)
+java.lang.NoSuchFieldError: Class org.bukkit.GameRule does not have member field 'org.bukkit.GameRule COMMAND_BLOCKS_ENABLED'
+	at Extras.jar/pw.kaboom.extras.modules.server.ServerGameRule.<clinit>(ServerGameRule.java:16) ~[Extras.jar:?]
+	at Extras.jar/pw.kaboom.extras.Main.onEnable(Main.java:83) ~[Extras.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:608) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:741) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:486) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:19:00] [Server thread/INFO]: [Extras] Disabling Extras vmaster
+[00:19:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+42-9985dbd
+[00:19:02] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:19:03] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:19:03] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:19:03] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[00:19:03] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[00:19:03] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[00:19:03] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:19:04] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:19:05] [Server thread/INFO]: [Essentials] Loaded 45989 items from items.json.
+[00:19:05] [Server thread/INFO]: [Essentials] Using locale en
+[00:19:06] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:19:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:19:07] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[00:19:08] [Server thread/INFO]: [spark] Starting background profiler...
+[00:19:09] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.RuntimeException: Could not run 'commands' lifecycle event handler from CommandSpy vmaster
+	at io.papermc.paper.plugin.lifecycle.event.LifecycleEventRunner.lambda$callEvent$1(LifecycleEventRunner.java:58) ~[paper-1.21.5.jar:?]
+	at io.papermc.paper.plugin.lifecycle.event.types.PrioritizableLifecycleEventType.forEachHandler(PrioritizableLifecycleEventType.java:59) ~[paper-1.21.5.jar:?]
+	at io.papermc.paper.plugin.lifecycle.event.LifecycleEventRunner.callEvent(LifecycleEventRunner.java:51) ~[paper-1.21.5.jar:?]
+	at io.papermc.paper.plugin.lifecycle.event.LifecycleEventRunner.callReloadableRegistrarEvent(LifecycleEventRunner.java:95) ~[paper-1.21.5.jar:?]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:746) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:486) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-113-ba7fb23]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.util.function.Predicate io.papermc.paper.command.brigadier.Commands.restricted(java.util.function.Predicate)'
+	at CommandSpy.jar/pw.kaboom.commandspy.Main.registerCommands(Main.java:63) ~[CommandSpy.jar:?]
+	at CommandSpy.jar/pw.kaboom.commandspy.Main.lambda$onEnable$0(Main.java:47) ~[CommandSpy.jar:?]
+	at io.papermc.paper.plugin.lifecycle.event.LifecycleEventRunner.lambda$callEvent$1(LifecycleEventRunner.java:56) ~[paper-1.21.5.jar:?]
+	... 9 more
+[00:19:09] [Server thread/ERROR]: This crash report has been saved to: /workspaces/kaboom-clone-mysticboom-v2/server/crash-reports/crash-2025-11-10_00.19.09-server.txt
+[00:19:09] [Server thread/INFO]: Stopping server
+[00:19:09] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[00:19:09] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+42-9985dbd
+[00:19:09] [Server thread/INFO]: [mc-neofetch] Disabling mc-neofetch v1.0.0
+[00:19:09] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.14.1-SNAPSHOT-1212+57c8ab5
+[00:19:09] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:19:09] [Server thread/INFO]: [CommandSpy] Disabling CommandSpy vmaster
+[00:19:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[00:19:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[00:19:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:19:09] [Server thread/INFO]: Saving players
+[00:19:09] [Server thread/INFO]: Saving worlds
+[00:19:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:19:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:19:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:19:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 1.10s
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.16s
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:19:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:19:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:19:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:19:12] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[00:19:12] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[00:19:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:19:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
